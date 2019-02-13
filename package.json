@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DemoUser22ibm/shipping-service/issues"
   },
-  "homepage": "https://github.com/DemoUser22ibm/shipping-service#readme"
+  "homepage": "https://github.com/DemoUser22ibm/shipping-service#readme",
+  "devDependencies": {
+    "sinon": "^7.2.3"
+  }
 }
