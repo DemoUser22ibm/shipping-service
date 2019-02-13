@@ -1,5 +1,5 @@
 // src/services/product-service.js
-var axios = require('axios')
+var axios = require('axios') 
 
 module.exports = {
   getProductWeight: async function (productId) {
